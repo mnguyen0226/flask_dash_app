@@ -1,2 +1,2 @@
-# Ikenote
-Ikenote is a webapp that help you focus by applying the Eisenhower Matrix
+# Rửa Counter
+Dash app for friend group's motivational growth
